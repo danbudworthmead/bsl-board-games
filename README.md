@@ -12,7 +12,7 @@ You can access the live version of the project [here](https://bsl-board-games.we
 - Supports subwords (e.g., "Walker" links to "Zombie" and "Walk").
 - Videos are embedded directly for easy viewing.
 - Fully responsive and mobile-friendly.
-- Dark mode for better accessibility.
+- Data is currently stored in src/data.json
 
 ## Getting Started
 
@@ -40,20 +40,6 @@ You can access the live version of the project [here](https://bsl-board-games.we
    `npm start`
 
    Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-## Deployment
-
-This project is deployed on Firebase Hosting. To deploy:
-
-1. Build the app:
-
-   `npm run build`
-
-2. Deploy to Firebase:
-
-   `firebase deploy`
-
-Ensure you have Firebase CLI installed and configured.
 
 ## Contributing
 
